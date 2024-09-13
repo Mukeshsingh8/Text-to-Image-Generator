@@ -28,7 +28,7 @@ export function Nav() {
         <ThemeToggle />
         <Button size="sm" asChild>
           <Link
-            href="https://github.com/ChatTeach/Fastest-Text-to-Image-Generator"
+            href="https://github.com/Mukeshsingh8/Text-to-Image-Generator"
             className="flex flex-row space-x-2 items-center"
             target="_blank"
           >

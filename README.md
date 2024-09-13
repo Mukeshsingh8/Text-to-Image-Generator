@@ -1,5 +1,5 @@
-# Fastest-Text-to-Image-Generator
-Fastest Text-to-Image Generator using fal ai.
+# Text-to-Image-Generator
+Text-to-Image Generator using fal ai.
 
 
 
@@ -16,13 +16,13 @@ To get started with this project, you'll need to clone the repository and have [
 Run the following command to clone the repository:  
 
 ```
-git clone https://github.com/ChatTeach/Fastest-Text-to-Image-Generator.git
+git clone https://github.com/Mukeshsingh8/Text-to-Image-Generator.git
 ```
 
 ### Install Dependencies :wrench: 
 Navigate to the project directory:
 ```
-cd Fastest-Text-to-Image-Generator
+cd Text-to-Image-Generator
 ```
 
 Install the dependencies:
